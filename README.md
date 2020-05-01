@@ -17,12 +17,12 @@
  
  # Some pictures
  **Home Page**<br> <br>
- ![](images/Screenshot%20from%202020-04-29%2010-21-14.png)
+ ![](images/home.png)
  <br> <br> 
 **Writing a new Post/Blog** <br> <br>
- ![](images/Screenshot%20from%202020-04-29%2010-21-43.png)
+ ![](images/compose.png) <br>
+ ![](images/compose_new_post.png)
  <br><br>
- **Searching for a certain blog** <br> <br>
- In case your blog title is "``` First Blog! ```",
- Then to search for it use:
- ![](images/Screenshot%20from%202020-04-29%2010-28-52.png)
+ **Rendering new composed posts to the home page** <br> <br>
+ ![](images/back_to_home_after_new_post.png)
+ <br> <br>
