@@ -15,5 +15,14 @@
     "mongoose": "^5.9.11"
   },
   "keywords": [],
-  "description": ""
+  "description": "A web application where users can post their blogs/posts.  Dynamic search for any post using the post title.",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amroakmal/DailyBlogs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amroakmal/DailyBlogs/issues"
+  },
+  "homepage": "https://github.com/amroakmal/DailyBlogs#readme"
 }
