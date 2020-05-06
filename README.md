@@ -1,6 +1,7 @@
 # DailyNews
  A web application where users can post their blogs/posts.
- Dynamic search for any post using the post title.
+ Dynamic search for any post using the post title. <br>
+ **Live** at: https://fast-tundra-23615.herokuapp.com/ 
 
 # Technologies Used
 * Node.js
